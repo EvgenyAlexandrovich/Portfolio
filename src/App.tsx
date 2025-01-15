@@ -6,8 +6,7 @@ import { Skills } from "./layout/sections/skills/Skills";
 import { Testimony } from "./layout/sections/testimony/Testimony";
 import { Works } from "./layout/sections/works/Works";
 import { Contact } from "./layout/sections/contacts/Contact";
-import { Slogan } from "./layout/sections/slogan/Slogan";
-import { Footer } from "./layout/sections/footer/Footer";
+import { Footer } from "./layout/footer/Footer";
 import { Particle } from "./components/particle/Particle";
 
 function App() {

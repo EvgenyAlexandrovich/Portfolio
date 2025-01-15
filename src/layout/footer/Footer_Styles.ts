@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import { theme } from "../../../styles/Theme";
-import { font } from "../../../styles/Common";
+import { theme } from "../../styles/Theme";
+import { font } from "../../styles/Common";
 
 const Footer = styled.footer`
     position: relative;
